@@ -12,7 +12,7 @@ const int N = 10;  // Размеры карты 1
 const int M = 10;
 int** map = NULL;
 
-// Размеры ячеек
+// Размеры ячеек 2
 const int WIDTH = 30;
 const int HEIGHT = 20;
 
