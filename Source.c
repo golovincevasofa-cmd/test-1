@@ -16,7 +16,7 @@ int** map = NULL;
 const int WIDTH = 30;
 const int HEIGHT = 20;
 
-// Прототипы функций
+// Прототипы функций 3 
 void InitializeMap();
 void drawMap(HDC hdc);
 void Left();
